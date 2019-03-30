@@ -1,4 +1,4 @@
-<h1># Water Informatiion System </h1><br>
+<h1># Water Information System </h1><br>
 #this system can make simple CRUD<br>
 #you can utilize easily<br>
 #source code is FREE<br>
